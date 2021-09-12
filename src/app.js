@@ -39,7 +39,7 @@ app.get('/about',(req,res)=>{
 
 app.get('/help',(req,res)=>{
     res.render('help',{
-        description:"about me about meabout meabout meabout meabout meabout meabout me ",
+        description:"This page is for description about me ",
         title:'akash',
         name:'andrew',
         
